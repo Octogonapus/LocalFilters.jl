@@ -14,7 +14,7 @@
 #
 
 """
-A kernel can be used to define a versatile type of structuring elements.
+A kernel can be used to define a versatile type of structuring element.
 """
 struct Kernel{T,N} <: Neighborhood{N}
     coefs::Array{T,N}
