@@ -21,3 +21,5 @@
 * Use `StaticArray` for small kernels.
 
 * Implement morphological gradient operators.
+
+* Implement bilateral filter https://en.wikipedia.org/wiki/Bilateral_filter
